@@ -52,5 +52,5 @@ body {
 @media screen and (min-width: 1366px) {
     body{
         height: 100vh;
-    }
+        background-size: cover;
 }
